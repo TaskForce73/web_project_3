@@ -1,0 +1,24 @@
+.cover__image {
+    grid-column: 1 / 4;
+    grid-row: 1 /4;
+    width: 1184px;
+    min-height: 740px;
+    padding: 0;
+    background-image: url(../../../images/Footer__image.png);
+    background-size: cover;
+    opacity: 0.8;
+  }
+  
+  @media screen and (max-width: 1280px) {
+    .cover__image {
+      width: 768px;
+      min-height: 746px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .cover__image {
+      width: 320px;
+      min-height: 254px;
+    }
+  }
