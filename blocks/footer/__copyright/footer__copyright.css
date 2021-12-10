@@ -4,10 +4,14 @@
   width: 165px;
   font-size: 14px;
   line-height: 114%;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
   text-align: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__copyright {
     line-height: 100%;
   }

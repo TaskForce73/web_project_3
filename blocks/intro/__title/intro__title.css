@@ -3,16 +3,20 @@
   padding: 0;
   max-width: 785px;
   font-size: 54px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 900;
   line-height: 107%;
+  color: #ffffff;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .intro__title {
     max-width: 720px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .intro__title {
     max-width: 288px;
     font-size: 32px;

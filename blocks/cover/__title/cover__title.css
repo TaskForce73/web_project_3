@@ -4,10 +4,14 @@
   max-width: 656px;
   font-size: 72px;
   line-height: 106%;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  color: #fffdfd;
   z-index: 1;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .cover__title {
     max-width: 288px;
     font-size: 32px;

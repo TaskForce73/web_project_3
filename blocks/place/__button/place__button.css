@@ -10,6 +10,9 @@
   align-items: center;
   font-size: 18px;
   line-height: 100%;
+  font-family: "Inter",sans-serif;
+  font-style: normal;
+  font-weight: 600;
   color: #FFFFFF;
   text-decoration: none;
 }
@@ -18,7 +21,7 @@
   background-color: #0063D2;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .place__button {
     width: 288px;
   }

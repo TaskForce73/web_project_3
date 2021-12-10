@@ -4,15 +4,19 @@
   max-width: 456px;
   font-size: 18px;
   line-height: 122%;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: #FFFFFF;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .place__artist-name {
     max-width: 352px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .place__artist-name {
     max-width: 288px;
   }
