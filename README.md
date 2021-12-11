@@ -12,6 +12,6 @@
 4. BEM based file structure
 
 
-#### ["From Homeland to Homeland" GitHub link](https://github.com/TaskForce73/web_project_3.git) 
+#### ["From Homeland to Homeland" GitHub link](https://taskforce73.github.io/web_project_3/index.html) 
 
 

@@ -1,7 +1,7 @@
 .place__artist {
   margin: 0;
   padding: 0;
-  max-width: 50px;
+  width: fit-content;
   font-size: 12px;
   line-height: 100%;
   letter-spacing: 0.12em;

@@ -4,14 +4,15 @@
   grid-template-areas: 
   "title link"
   "image text"
-  "button text"
-  ". text";
+  "button text";
   gap: 48px 40px;
+  margin-bottom: 80px;
 }
 
 @media screen and (max-width: 1279px) {
   .place {
     gap: 48px 28px;
+    margin-bottom: 72px;
   }
 }
 
@@ -26,5 +27,6 @@
     "button";
     gap: 30px 0;
     justify-items: center;
+    margin-bottom: 50px;
   }
 }
