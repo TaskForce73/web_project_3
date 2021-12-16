@@ -6,9 +6,6 @@
   flex-direction: column;
   align-items: center;
 }
-.places__list:last-of-type{
-  margin-bottom: 0;
-}
 
 @media screen and (max-width: 1279px) {
   .places__list {

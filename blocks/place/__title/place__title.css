@@ -9,13 +9,13 @@
   font-style: normal;
   font-weight: 900;
   color: #ffffff;
+  align-self: flex-end;
 }
 
 @media screen and (max-width: 1279px) {
   .place__title {
     font-size: 42px;
     line-height: 110%;
-    max-width: 340px;
   }
 }
 

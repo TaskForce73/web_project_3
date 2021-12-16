@@ -9,3 +9,9 @@
   justify-content: flex-end;
   gap: 8px;
 }
+
+@media screen and (max-width: 767px) {
+  .place__link-container {
+    width: 288px;
+  }
+}
